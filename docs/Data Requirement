@@ -1,0 +1,36 @@
+# Project Requirements
+
+## SQL Data Warehouse Project
+
+| Category | Details |
+|---|---|
+| **Requested By** | Business Stakeholders |
+| **Platform** | Microsoft SQL Server |
+| **Teams** | Data Engineering & Data Analysis |
+
+The project consists of two main phases: **Data Warehouse Development** and **Analytics & Reporting**. The first phase focuses on building a centralized data warehouse, while the second leverages the warehouse to generate business insights.
+
+## 1. Building the Data Warehouse (Data Engineering)
+
+### Objective
+Develop a modern SQL Server-based data warehouse to consolidate sales data from multiple source systems, enabling analytical reporting and informed business decision-making.
+
+### Specifications
+- **Data Sources:** Import data from two source systems (ERP and CRM) provided in CSV format.
+- **Data Quality:** Identify, cleanse, and resolve data quality issues before making the data available for analysis.
+- **Data Integration:** Consolidate data from both source systems into a unified, user-friendly data model optimized for analytical queries.
+- **Scope:** Focus on the latest available dataset. Historical data tracking (historization) is not required.
+- **Documentation:** Maintain clear documentation of the data model to support business stakeholders and analytics teams.
+
+## 2. BI — Analytics & Reporting (Data Analysis)
+
+### Objective
+Develop SQL-based analytics to generate meaningful business insights and support strategic decision-making.
+
+### Analytical Focus Areas
+- **Customer Behavior:** Analyze customer purchasing patterns, customer segmentation, and behavioral trends.
+- **Product Performance:** Evaluate product sales, revenue contribution, and category performance.
+- **Sales Trends:** Identify sales patterns, growth trends, and changes in business performance over time.
+
+The resulting insights will provide stakeholders with key business metrics to support strategic planning and informed decision-making.
+
