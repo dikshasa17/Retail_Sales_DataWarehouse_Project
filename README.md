@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+# Retail Sales Data Warehouse and Analytics Project
 
 This repository contains the complete materials for a SQL Server Data Warehouse project, including source datasets, SQL scripts, documentation, and data quality tests.
 
